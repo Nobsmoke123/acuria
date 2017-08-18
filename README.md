@@ -1,2 +1,2 @@
 # project
-This is a financial donation app
+First Php Project on github
